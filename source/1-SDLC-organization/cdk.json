@@ -11,8 +11,8 @@
     "email": "precocityresearch@outlook.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
-      eu-west-1,
-      eu-west-2
+      "eu-west-1",
+      "eu-west-2"
     ]
   }
 }
